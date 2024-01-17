@@ -9,6 +9,9 @@ module.exports = {
       env: {
         node: true,
       },
+      globals: {
+        Bun: "readonly",
+      },
       files: [".eslintrc.{js,cjs}"],
       parserOptions: {
         sourceType: "script",
