@@ -1,0 +1,19 @@
+{
+  "name": "replcomments",
+  "version": "1.0.0",
+  "description": "Bring Back Comments to replit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk337/replcomments.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sk337/replcomments/issues"
+  },
+  "homepage": "https://github.com/sk337/replcomments#readme"
+}
